@@ -1,0 +1,15 @@
+C:\Users\e.belyankina\Desktop\DZ_1\dz01.md\bin\Debug\net7.0\dz01.md.exe
+C:\Users\e.belyankina\Desktop\DZ_1\dz01.md\bin\Debug\net7.0\dz01.md.deps.json
+C:\Users\e.belyankina\Desktop\DZ_1\dz01.md\bin\Debug\net7.0\dz01.md.runtimeconfig.json
+C:\Users\e.belyankina\Desktop\DZ_1\dz01.md\bin\Debug\net7.0\dz01.md.dll
+C:\Users\e.belyankina\Desktop\DZ_1\dz01.md\bin\Debug\net7.0\dz01.md.pdb
+C:\Users\e.belyankina\Desktop\DZ_1\dz01.md\obj\Debug\net7.0\dz01.md.csproj.AssemblyReference.cache
+C:\Users\e.belyankina\Desktop\DZ_1\dz01.md\obj\Debug\net7.0\dz01.md.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\e.belyankina\Desktop\DZ_1\dz01.md\obj\Debug\net7.0\dz01.md.AssemblyInfoInputs.cache
+C:\Users\e.belyankina\Desktop\DZ_1\dz01.md\obj\Debug\net7.0\dz01.md.AssemblyInfo.cs
+C:\Users\e.belyankina\Desktop\DZ_1\dz01.md\obj\Debug\net7.0\dz01.md.csproj.CoreCompileInputs.cache
+C:\Users\e.belyankina\Desktop\DZ_1\dz01.md\obj\Debug\net7.0\dz01.md.dll
+C:\Users\e.belyankina\Desktop\DZ_1\dz01.md\obj\Debug\net7.0\refint\dz01.md.dll
+C:\Users\e.belyankina\Desktop\DZ_1\dz01.md\obj\Debug\net7.0\dz01.md.pdb
+C:\Users\e.belyankina\Desktop\DZ_1\dz01.md\obj\Debug\net7.0\dz01.md.genruntimeconfig.cache
+C:\Users\e.belyankina\Desktop\DZ_1\dz01.md\obj\Debug\net7.0\ref\dz01.md.dll
